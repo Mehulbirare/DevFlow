@@ -2,7 +2,7 @@
 
 **DevFlow** is a powerful Chrome Extension that acts as "Shazam for Web Development". It allows you to visually identify the source of any data displayed on a webpage—whether it comes from an API call or internal React Component State—simply by hovering over it.
 
-![DevFlow Icon](icon.png)
+
 
 ## 🚀 Features
 
