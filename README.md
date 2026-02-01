@@ -37,7 +37,7 @@
 
 1.  **Download/Clone** this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/devflow.git
+    git clone https://github.com/Mehulbirare/DevFlow.git
     ```
 2.  Open **Google Chrome** and navigate to `chrome://extensions/`.
 3.  Enable **Developer mode** (toggle in the top right corner).
